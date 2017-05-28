@@ -1,5 +1,7 @@
 # GOLANG
 
+## Author: Jd
+
 ### Directory structure
 ```
 bin/
