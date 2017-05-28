@@ -1,5 +1,7 @@
 # GOLANG
 
+## Author: Jaydeep Gondaliya
+
 ### Directory structure
 ```
 bin/
