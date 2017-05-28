@@ -1,6 +1,6 @@
 # GOLANG
 
-## Author: Jd
+## Author: Jaydeep Gondaliya
 
 ### Directory structure
 ```
